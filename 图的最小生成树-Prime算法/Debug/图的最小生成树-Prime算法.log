@@ -1,0 +1,4 @@
+﻿  图的最小生成树-Prime算法.cpp
+F:\大话数据结构\算法测试\图的最小生成树-Prime算法\图的最小生成树-Prime算法.cpp(11,1): warning C4005: “INFINITY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 参见“INFINITY”的前一个定义
+  图的最小生成树-Prime算法.vcxproj -> F:\大话数据结构\算法测试\Debug\图的最小生成树-Prime算法.exe
