@@ -1,0 +1,8 @@
+﻿  图的最短路径-Floyd算法.cpp
+F:\大话数据结构\算法测试\图的最短路径-Floyd算法\图的最短路径-Floyd算法.cpp(11,1): warning C4005: “INFINITY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 参见“INFINITY”的前一个定义
+F:\大话数据结构\算法测试\图的最短路径-Floyd算法\图的最短路径-Floyd算法.cpp(109,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\大话数据结构\算法测试\图的最短路径-Floyd算法\图的最短路径-Floyd算法.cpp(111,24): warning C4018: “<”: 有符号/无符号不匹配
+F:\大话数据结构\算法测试\图的最短路径-Floyd算法\图的最短路径-Floyd算法.cpp(119,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\大话数据结构\算法测试\图的最短路径-Floyd算法\图的最短路径-Floyd算法.cpp(121,24): warning C4018: “<”: 有符号/无符号不匹配
+  图的最短路径-Floyd算法.vcxproj -> F:\大话数据结构\算法测试\Debug\图的最短路径-Floyd算法.exe
